@@ -1,0 +1,8 @@
+{
+  "name": "solire.ladda-bootstrap",
+  "description": "Ladda buttons concept",
+  "keywords": ["bootstrap", "ladda"],
+  "homepage": "https://github.com/msurguy/ladda-bootstrap",
+  "type": "library",
+  "license": "MIT"
+}
